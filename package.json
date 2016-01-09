@@ -1,0 +1,22 @@
+{
+  "name": "logjs",
+  "version": "1.0.0",
+  "description": "LogJS ===== Lightweight logging for JavaScript",
+  "main": "dist/log.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfattori/LogJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bfattori/LogJS/issues"
+  },
+  "homepage": "https://github.com/bfattori/LogJS#readme"
+}
